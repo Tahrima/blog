@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tahrima.github.io/blog/post/hello2/</loc>
-    <lastmod>2017-05-25T22:30:21-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tahrima.github.io/blog/post/hello/</loc>
-    <lastmod>2017-05-25T20:57:39-04:00</lastmod>
+    <loc>https://tahrima.github.io/blog/post/perfectionism/</loc>
+    <lastmod>2017-05-28T00:42:20-04:00</lastmod>
   </url>
   
   <url>
@@ -18,19 +13,19 @@
   </url>
   
   <url>
-    <loc>https://tahrima.github.io/blog/</loc>
-    <lastmod>2017-05-25T22:30:21-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://tahrima.github.io/blog/post/</loc>
-    <lastmod>2017-05-25T22:30:21-04:00</lastmod>
+    <lastmod>2017-05-28T00:42:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tahrima.github.io/blog/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tahrima.github.io/blog/</loc>
+    <lastmod>2017-05-28T00:42:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
